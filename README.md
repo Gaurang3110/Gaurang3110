@@ -1,46 +1,85 @@
-# Hi 👋, I'm Gaurang Srivastava
+Hi there 👋 I'm Gaurang Srivastava
 
-Backend Software Engineer | IIIT Nagpur
-Passionate about Backend, Distributed Systems, AI & GenAI.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Software+Engineer;Software+Development+Engineer+Intern+@+HungerBox;B.Tech+CSE+@+IIIT+Nagpur;Backend+%7C+Distributed+Systems+%7C+LLMs+%7C+GenAI" />
+</p>
 
-## 🚀 About Me
+<p align="center">
+<a href="mailto:gsriofficial31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gaurang-srivastava-7b5380287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Gaurang3110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Gaurang_Srivastava31/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
+<a href="https://codeforces.com/profile/sri31gaurang"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/></a>
+<a href="https://www.codechef.com/users/gaurang31"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/></a>
+</p>
 
-- 💻 SDE Intern @ HungerBox
-- 🎓 B.Tech CSE @ IIIT Nagpur
-- 🌱 Currently learning Go, System Design and Distributed Systems
-- 🏆 LeetCode Knight (1893)
-- ⭐ CodeChef 3★
+🚀 About Me
 
-## 🌎 Connect with me
+💼 Software Development Engineer Intern @ HungerBox
 
-- LinkedIn
-- Portfolio
-- Email
+🎓 B.Tech CSE @ IIIT Nagpur (CGPA: 9.75)
 
-## 💻 Tech Stack
+⚙️ Backend Engineer passionate about scalable systems, APIs, databases and distributed systems.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+🤖 Building LLM-powered applications and AI products.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+🧠 Strong CS fundamentals: DSA, OOP, DBMS, OS, CN.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+💻 Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,java,php,go,nodejs,express,flask,fastapi,react,nextjs,html,css,tailwind,flutter,mysql,mongodb,postgres,redis,docker,aws,firebase,git,github,githubactions,linux,nginx,tensorflow,pytorch&perline=16"/>
+</p>
 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+Also: REST APIs • JWT • Authentication • Authorization • Middleware • LangChain • Hugging Face • OpenCV • spaCy • Scikit-Learn • RAG • Postman • Cursor • Claude Code
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+📊 GitHub Stats
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurang3110&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurang3110&layout=compact&theme=tokyonight"/>
+</p>
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang3110&theme=tokyonight"/>
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+🏆 Achievements
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gaurang3110&show_icons=true&theme=tokyonight)
+🟠 LeetCode Knight (1893) • 700+ solved
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurang3110&layout=compact&theme=tokyonight)
+⭐ CodeChef 3★ (1769)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurang3110&theme=tokyonight)
+🔵 Codeforces Pupil
 
-![](https://komarev.com/ghpvc/?username=Gaurang3110&color=blue)
+🏅 Flipkart GRiD 7.0 National Semi-Finalist
+
+🥈 Space Hackathon Runner-Up
+
+🚀 Hackwise AI/ML Finalist
+
+⭐ Featured Projects
+
+Project
+
+Description
+
+AIcademy
+
+LLM-powered AI Course Generation Platform
+
+StreamHive
+
+Production-ready YouTube backend
+
+AnimeVerse AI
+
+NLP + Llama-3 chatbot + Knowledge Graph
+
+📈 Visitor Count
+
+
+
+<p align="center">
+<i>Building scalable backend systems, AI products, and shipping impactful software.</i>
+</p>
