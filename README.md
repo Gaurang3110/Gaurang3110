@@ -54,9 +54,6 @@ Also: REST APIs • JWT • Authentication • Authorization • Middleware • 
 - 🚀 **Hackwise AI/ML Hackathon Finalist (IIM Indore)** • [📜 Certificate](https://drive.google.com/file/d/1X4HLsmsUOd-InuuQNTrKKDIvTTRnCVR1/view?usp=drive_link)
 - 🥈 **Space Hackathon 2024 – Second Runner-Up** • [📜 Certificate](https://drive.google.com/file/d/1e49j6A3vG-3ghG-soCu1Nfn-iO8_PjSW/view?usp=drive_link)
 
-
-📈 Visitor Count
-
 <p align="center">
 <i>Building scalable backend systems, AI products, and shipping impactful software.</i>
 </p>
