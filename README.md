@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gaurang Srivastava
+<p align="center"># Hi 👋, I'm Gaurang Srivastava</p>
 
 
 <p align="center">
@@ -35,11 +35,6 @@
 Also: REST APIs • JWT • Authentication • Authorization • Middleware • LangChain • Hugging Face • OpenCV • spaCy • Scikit-Learn • RAG • Postman • Cursor • Claude Code
 
 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurang3110&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurang3110&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang3110&theme=tokyonight"/>
