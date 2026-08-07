@@ -1,4 +1,5 @@
-Hi there 👋 I'm Gaurang Srivastava
+# Hi 👋, I'm Gaurang Srivastava
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Software+Engineer;Software+Development+Engineer+Intern+@+HungerBox;B.Tech+CSE+@+IIIT+Nagpur;Backend+%7C+Distributed+Systems+%7C+LLMs+%7C+GenAI" />
@@ -44,41 +45,17 @@ Also: REST APIs • JWT • Authentication • Authorization • Middleware • 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang3110&theme=tokyonight"/>
 </p>
 
-🏆 Achievements
+## 🏆 Achievements
 
-🟠 LeetCode Knight (1893) • 700+ solved
+- 🟠 **[LeetCode Knight (Max Rating: 1893)](https://leetcode.com/u/Gaurang_Srivastava31/)** • Solved **700+** DSA problems.
+- ⭐ **[CodeChef 3★ (Max Rating: 1769)](https://www.codechef.com/users/gaurang31)**
+- 🔵 **[Codeforces Pupil](https://codeforces.com/profile/sri31gaurang)**
+- 🏅 **Flipkart GRiD 7.0 National Semi-Finalist** • [📜 Certificate](https://drive.google.com/file/d/1BB9p5Aban1E-asUIYZwVRx49v3h_EugE/view?usp=drive_link)
+- 🚀 **Hackwise AI/ML Hackathon Finalist (IIM Indore)** • [📜 Certificate](https://drive.google.com/file/d/1X4HLsmsUOd-InuuQNTrKKDIvTTRnCVR1/view?usp=drive_link)
+- 🥈 **Space Hackathon 2024 – Second Runner-Up** • [📜 Certificate](https://drive.google.com/file/d/1e49j6A3vG-3ghG-soCu1Nfn-iO8_PjSW/view?usp=drive_link)
 
-⭐ CodeChef 3★ (1769)
-
-🔵 Codeforces Pupil
-
-🏅 Flipkart GRiD 7.0 National Semi-Finalist
-
-🥈 Space Hackathon Runner-Up
-
-🚀 Hackwise AI/ML Finalist
-
-⭐ Featured Projects
-
-Project
-
-Description
-
-AIcademy
-
-LLM-powered AI Course Generation Platform
-
-StreamHive
-
-Production-ready YouTube backend
-
-AnimeVerse AI
-
-NLP + Llama-3 chatbot + Knowledge Graph
 
 📈 Visitor Count
-
-
 
 <p align="center">
 <i>Building scalable backend systems, AI products, and shipping impactful software.</i>
