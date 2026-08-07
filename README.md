@@ -1,4 +1,7 @@
-<p align="center"># Hi 👋, I'm Gaurang Srivastava</p>
+<h1 align="center" style="font-size:56px;">
+  Hi 👋, I'm <br>
+  <strong>Gaurang Srivastava</strong>
+</h1>
 
 
 <p align="center">
